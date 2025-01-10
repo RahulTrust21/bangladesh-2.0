@@ -187,3 +187,20 @@ margin-top: 24px;
     border: none;
     
 }
+
+.speech{
+    background-color: white;
+    padding: 48px 24px;
+    border-radius: 16px;
+    margin-top: 20px;
+}
+
+.speech h3{
+    padding-top: 12px;
+    padding-bottom: 8px;
+
+}
+
+.opinion{
+    padding:24px;
+}
