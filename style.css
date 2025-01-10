@@ -10,6 +10,7 @@ body {
     padding: 0 20px;
     font-family: "Fira Sans", serif;
     color: rgb(14, 14, 14);
+    background-color: rgb(245, 245, 245);
 }
 
 .header {
@@ -86,4 +87,103 @@ body {
 
 .hero-img img{
     width: 100%;
+}
+
+.section-header{
+    font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+padding-bottom: 32px;
+padding-top: 80px;
+}
+
+.pillar-cards{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+
+}
+
+.pillar-card{
+
+    padding: 24px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+
+.pillar-h3{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+
+padding-top: 24px;
+padding-bottom: 12px;
+}
+
+.pillar-p{
+    
+color:rgba(14, 14, 14, 0.7);
+}
+
+.card-btn{
+    font-weight: 600;
+line-height: 19px;
+padding: 10px 20px;
+color: white;
+margin-top: 24px;
+}
+
+.future-cards{
+    display: flex;
+ justify-content: center;
+    align-items: center;
+    gap: 24px; 
+}
+
+.future-card-1{
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+}
+
+.future-btn-1{
+    border-radius: 8px;
+
+    background: rgb(84, 144, 245);
+
+    border: none;
+    
+}
+
+.future-card-2{
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+}
+
+.future-btn-2{
+    border-radius: 8px;
+
+    background:rgb(9, 161, 92) ;
+
+    border: none;
+    
+}
+
+.future-card-3{
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+}
+
+.future-btn-3{
+    border-radius: 8px;
+
+    background: rgb(255, 194, 57);
+
+    border: none;
+    
 }
