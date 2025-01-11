@@ -114,6 +114,11 @@ padding-top: 80px;
 
 }
 
+.pillar-card:hover{
+    background: rgba(91, 248, 208, 0.8);
+
+}
+
 
 .pillar-h3{
     color: rgba(14, 14, 14, 0.8);
